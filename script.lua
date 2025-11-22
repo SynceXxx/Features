@@ -1,5 +1,3 @@
--- SYNCE SCRIPT - PICKAXE SIMULATOR FEATURES
--- Upload ke: https://github.com/SynceXxx/Features/blob/main/script.lua
 local F={}
 local P=game:GetService("Players").LocalPlayer
 local RS=game:GetService("ReplicatedStorage")
